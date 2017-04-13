@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_leave.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\drawable-mdpi\\ic_ab_leave.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png",
+        "source": "E:\\android-geochat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_info_black_24dp.png",
+        "source": "E:\\android-geochat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_message.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\drawable-mdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_map.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\drawable-mdpi\\ic_ab_map.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_send.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\drawable-mdpi\\ic_ab_send.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sync_black_24dp.png",
+        "source": "E:\\android-geochat\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sync_black_24dp.png"
+    }
+]

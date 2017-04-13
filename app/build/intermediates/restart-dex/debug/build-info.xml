@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="415475153689935"
+    token="-5025856427710494430"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="181" />
+    <task
+        name="instant-run-dex"
+        duration="12" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="E:\android-geochat\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="413070039762371"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\android-geochat\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="413448283100457"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="415475153689935"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\android-geochat\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be3cad59f6e8c663a0b05dff0d25c3a00281cc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\co.dift.ui.swipetoaction\library\1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="91580cd057a26c49c7f8a2abf985bd931bdc446d">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\co.dift.ui.swipetoaction-library-1.1_ee95ca98c4417a7c59df3b2b571ee2ef9b8e52a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a26eb3a473c0e55266780b3a9a9939ffd1b2ff5">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a1b528c874e5cb7e5c6a82c28d5c41d8aa944f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_eb4097016463137f5cf3317718c53a2a6b222b5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SAJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_277baa7d6aaed6a5898396e952dca428f786a448\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4c28bca27e54fe6c5d14a9f0974e9baad86c4590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_115f8ad169d14e57dc54707c9eeae1f1161d4319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5c875f1d230d86450f8541f66d95f8fe7a42ad21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd06ed5aaa4c531a7796df55d825227b04682052">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c37c6484b2d3bf465a93de2ae329f0cf68ae867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_55e7b2c8f48c4bd3dac39a66786adc9ab4758bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_45fe541475b8389e711569d6e8df5ac008e032c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_9be2bf22982eeac7a276989a786fc3c178a733c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1db064a27f81828e74f1152e7a6e058e0e0caebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_fbe7114a4b6801b96512d74677917d7c72c0f5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_5b123b1ea78712f8dcf6ba217350fda15f49ac2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_650e6fab20ee648db6d78fdf7c8ba2106b8c6505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fe02a054130b161a21baa64a7f247127f2eb5c4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_db7bb408c9a0c61fc27134bdc66c4a79b82a83e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c1fd962ce54f4397a4985db678c38892d19016c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-geochat\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android-geochat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0b0a132878220e4ced51d8e4436d55edc875f50c\classes.dex" />
+    </item>
+
+</items>

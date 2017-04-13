@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_chat_bubble2.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_bubble2.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android-geochat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_chat_bubble.png",
+        "source": "E:\\android-geochat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_bubble.png"
+    }
+]

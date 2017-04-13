@@ -1,0 +1,7 @@
+#Wed Apr 12 21:42:03 EDT 2017
+base.0=E\:\\android-geochat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1b528c874e5cb7e5c6a82c28d5c41d8aa944f80
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\android-geochat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c37c6484b2d3bf465a93de2ae329f0cf68ae867\\classes.dex
+base.1=E\:\\android-geochat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8c37c6484b2d3bf465a93de2ae329f0cf68ae867
+file.0=E\:\\android-geochat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1b528c874e5cb7e5c6a82c28d5c41d8aa944f80\\classes.dex
